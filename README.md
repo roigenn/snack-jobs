@@ -1,0 +1,2 @@
+# snack-jobs
+People sometimes need a daily employee in any sector. Sometimes it is needed in a mall for clothes selling or sometimes for helping to an old person for shopping. But the important fact here is it is only needed for one day. This app will allow to employers to find daily employees for their need. It will be a location-based app. Employer will register on app then job description will be published as name, title, location, date and price. Then user will access to system and will see the nearest job. Then it will apply for it and then employers choose one of them.
